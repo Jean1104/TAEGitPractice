@@ -8,4 +8,13 @@ class Calculator {
         // subtract all params
     }
 
+    
+    multiplication(params) {
+        // Multiplication all params
+    }
+
+    division(params) {
+        // Division all params
+    }
+    
 }
