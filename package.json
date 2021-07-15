@@ -1,0 +1,23 @@
+{
+  "name": "TAEGitPractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jean1104/TAEGitPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jean1104/TAEGitPractice/issues"
+  },
+  "homepage": "https://github.com/Jean1104/TAEGitPractice#readme",
+  "dependencies": {
+    "webdriverio": "^7.7.6"
+  }
+}
